@@ -20,7 +20,7 @@ I maintain a separate main account: [Connor12858](https://github.com/Connor12858
 ## 🔗 Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40connor12858-E4405F?style=flat-square&logo=instagram)](https://instagram.com/connor12858)
-[![GitHub](https://img.shields.io/badge/GitHub-ConnorGodden-181717?style=flat-square&logo=github)](https://github.com/ConnorGodden)
+[![GitHub](https://img.shields.io/badge/GitHub-ConnorGodden-181717?style=flat-square&logo=github)](https://github.com/connor12858)
 
 ---
 
