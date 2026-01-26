@@ -13,7 +13,7 @@ I maintain a separate main account: [Connor12858](https://github.com/Connor12858
 - 🚀 Small learning projects and prototypes  
 - 📝 Notes, experiments, and practice exercises
 
-(If any of it is made public)
+(If any of it is made public as per course restrictions)
 
 ---
 
